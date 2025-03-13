@@ -1,6 +1,6 @@
 ## Caching In Order API
   - What is Caching.
-    ```bash
+    ```
        Caching is the process of storing accessed data in a temporary storage location (cache) to improve performance and reduce retrieval time. Instead of repeatedly fetching data from a slow source (such as a database, API, or disk), caching allows quick access from memory or a faster storage layer.
     ```
 In this Order API I have a use the Caching in a `Getbill` function.
